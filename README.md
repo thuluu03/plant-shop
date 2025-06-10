@@ -2,7 +2,7 @@
 
 Submitted by: **Thu Luu**
 
-This web app: **insert description**
+This web app: **displays 10 cards showcasing each plant and a short description, mimicking a shop** 
 
 Time spent: **5** hours spent in total
 
@@ -44,7 +44,7 @@ GIF created with [Kap](https://getkap.co/)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Making the flipping animation was difficult since I had not tried implementing that feature before. The flipping is still not perfect as the card is a few pixels to the left after the card is flipped to the back.
 
 ## License
 
